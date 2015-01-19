@@ -1,0 +1,24 @@
+newmtl Cornell_box_material_2
+illum 4
+Kd 1.00 0.87 0.62
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 60.00
+newmtl Cornell_box_material_4
+illum 4
+Kd 0.00 1.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.30 0.30 0.30
+Ns 60.00
+newmtl Cornell_box_material_7
+illum 4
+Kd 1.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 60.00
