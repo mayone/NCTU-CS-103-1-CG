@@ -50,7 +50,7 @@ void main()
 		//shadow = shadowTexCoord.z > shadowMapDepth + tolerance ? 0.5 : 1.0;
 		if(shadowTexCoord.z > shadowMapDepth + tolerance)
 		{
-			shadow = 0.5;
+			shadow = 0.99;
 			light_color = ambient_color;
 		}
 	}
