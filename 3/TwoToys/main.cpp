@@ -417,7 +417,7 @@ void drawObjects()
 		glPushMatrix();
 
 		glTranslatef(scene_data->T[objID][0], scene_data->T[objID][1], scene_data->T[objID][2]);
-		glRotatef(scene_data->Angle[objID], scene_data->R[objID][0], scene_data->R[objID][1], scene_data->R[2][2]);
+		glRotatef(scene_data->Angle[objID], scene_data->R[objID][0], scene_data->R[objID][1], scene_data->R[objID][2]);
 		glScalef(scene_data->S[objID][0], scene_data->S[objID][1], scene_data->S[objID][2]);
 
 		SaveTRS_start(	scene_data->T[objID][0], scene_data->T[objID][1], scene_data->T[objID][2],
