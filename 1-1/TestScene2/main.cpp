@@ -170,7 +170,7 @@ void draw_obj()
 		lastMaterial = -1;
 		glPushMatrix();
 		glTranslatef(scene_data->T[i][0], scene_data->T[i][1], scene_data->T[i][2]);
-		glRotatef(scene_data->Angle[i], scene_data->R[i][0], scene_data->R[i][1], scene_data->R[2][2]);
+		glRotatef(scene_data->Angle[i], scene_data->R[i][0], scene_data->R[i][1], scene_data->R[i][2]);
 		glScalef(scene_data->S[i][0], scene_data->S[i][1], scene_data->S[i][2]);
 		for(size_t i = 0; i < current->fTotal; ++i)
 		{
