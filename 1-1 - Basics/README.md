@@ -2,14 +2,14 @@
 
 ##Key Usage:
 
-- [w] - Zoom in
+- w - Zoom in
 
-- [s] - Zoom out
+- s - Zoom out
 
-- [a] - Rotate left (Camera)
+- a - Rotate left (Camera)
 
-- [d] - Rotate right (Camera)
+- d - Rotate right (Camera)
 
-- [0~9] - Select object
+- 0~9 - Select object
 
-- [mouse] - Move the selected object
+- mouse - Move the selected object
