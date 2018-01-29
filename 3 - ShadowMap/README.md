@@ -1,27 +1,23 @@
 # 3: ShadowMap
 
-##Key Usage:
+## Key Usage:
 
-- w - Zoom in
+### Camera
+- w: Zoom in
+- s: Zoom out
+- a: Rotate left
+- d: Rotate right
 
-- s - Zoom out
+### Light Source
+- i: Light source direction moves up
+- j: Light source direction moves left
+- k: Light source direction moves down
+- l: Lignt source direction moves right
 
-- a - Rotate left (Camera)
+### ShadowMap
+- m: Toggle mini-shadowMap (On/Off)
+- n: Toggle shadowMap (On/Off)
 
-- d - Rotate right (Camera)
-
-- m - Toggle mini-shadowMap (On/Off)
-
-- n - Toggle shadowMap (On/Off)
-
-- i - Light source direction moves up (BumpMap Only)
-
-- j - Light source direction moves left (BumpMap Only)
-
-- k - Light source direction moves down (BumpMap Only)
-
-- l - Lignt source direction moves right (BumpMap Only)
-
-- 0~9 - Select object
-
-- mouse - Move the selected object
+### Object
+- 1~9: Select object
+- mouse: Move the selected object

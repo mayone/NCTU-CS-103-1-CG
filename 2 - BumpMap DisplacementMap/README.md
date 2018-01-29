@@ -2,19 +2,22 @@
 
 ## Key Usage:
 
+### Camera
 - w: Zoom in
 - s: Zoom out
-- a: Rotate left (Camera)
-- d: Rotate right (Camera)
+- a: Rotate left
+- d: Rotate right
 
-- e: Increase scaling factor
-- q: Decrease scaling factor
-
+### Light Source
 - i: Light source direction moves up (BumpMap Only)
 - j: Light source direction moves left (BumpMap Only)
 - k: Light source direction moves down (BumpMap Only)
 - l: Lignt source direction moves right (BumpMap Only)
 
-- 1~9: Select object
+### Scaling Factor
+- e: Increase scaling factor
+- q: Decrease scaling factor
 
+### Object
+- 1~9: Select object
 - mouse: Move the selected object
