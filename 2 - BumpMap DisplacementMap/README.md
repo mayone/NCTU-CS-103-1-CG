@@ -1,27 +1,20 @@
 # 2: BumpMap and DisplacementMap
 
-##Key Usage:
+## Key Usage:
 
-- w - Zoom in
+- w: Zoom in
+- s: Zoom out
+- a: Rotate left (Camera)
+- d: Rotate right (Camera)
 
-- s - Zoom out
+- e: Increase scaling factor
+- q: Decrease scaling factor
 
-- a - Rotate left (Camera)
+- i: Light source direction moves up (BumpMap Only)
+- j: Light source direction moves left (BumpMap Only)
+- k: Light source direction moves down (BumpMap Only)
+- l: Lignt source direction moves right (BumpMap Only)
 
-- d - Rotate right (Camera)
+- 1~9: Select object
 
-- e - Increase scaling factor
-
-- q - Decrease scaling factor
-
-- i - Light source direction moves up (BumpMap Only)
-
-- j - Light source direction moves left (BumpMap Only)
-
-- k - Light source direction moves down (BumpMap Only)
-
-- l - Lignt source direction moves right (BumpMap Only)
-
-- 0~9 - Select object
-
-- mouse - Move the selected object
+- mouse: Move the selected object
