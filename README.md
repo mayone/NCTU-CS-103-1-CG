@@ -1,6 +1,6 @@
 # NCTU-CS-103-1-CG
-
 - Assignments of Introduction to Computer Graphics
+- [Sample Result](https://github.com/mayone/NCTU-CS-103-1-CG/wiki)
 
 ## 1-1: Basics
 - Render the object
